@@ -1,6 +1,5 @@
 <h2 align="center">
   Personal Portfolio Website <br/>
-  <a href="https://github.com/notslazer/peronal_portfolio" target="_blank">Portfolio</a>
 </h2>
 
 <br />
